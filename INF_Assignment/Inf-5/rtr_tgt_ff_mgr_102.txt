@@ -1,0 +1,2 @@
+#employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,manager_id,department_id
+103,Alexander,Hunold,alexander.hunold@sqltutorial.org,590.423.4567,1990-01-03,9,9000.00,102,6

@@ -1,0 +1,5 @@
+#employee_id,first_name,last_name,email,phone_number,hire_date,job_id,salary,manager_id,department_id
+104,Bruce,Ernst,bruce.ernst@sqltutorial.org,590.423.4568,1991-05-21,9,6000.00,103,6
+105,David,Austin,david.austin@sqltutorial.org,590.423.4569,1997-06-25,9,4800.00,103,6
+106,Valli,Pataballa,valli.pataballa@sqltutorial.org,590.423.4560,1998-02-05,9,4800.00,103,6
+107,Diana,Lorentz,diana.lorentz@sqltutorial.org,590.423.5567,1999-02-07,9,4200.00,103,6
