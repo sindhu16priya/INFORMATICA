@@ -1,0 +1,5 @@
+#manager_name,manager_id,mail_domain,max_sal,min_sal,avg_sal,load_date
+Neena Kochhar,100,neena.kochhar@sqltutorial.org,12000,2500,5627,11/20/2024 00:33:19
+Shelley Higgins,101,shelley.higgins@sqltutorial.org,9000,6900,7983,11/20/2024 00:33:19
+Alexander Hunold,102,alexander.hunold@sqltutorial.org,6000,4200,4950,11/20/2024 00:33:19
+Steven King,,steven.king@sqltutorial.org,17000,6200,10450,11/20/2024 00:33:19

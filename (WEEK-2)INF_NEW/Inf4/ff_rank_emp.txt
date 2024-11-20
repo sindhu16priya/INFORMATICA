@@ -1,0 +1,12 @@
+#RANKINDEX|manager_id|manager_name|employee_id|salary
+1|100|Neena Kochhar|101|17000.00
+1|101|Nancy Greenberg|108|12000.00
+1|102|Alexander Hunold|103|9000.00
+1|103|Bruce Ernst|104|6000.00
+1|108|Daniel Faviet|109|9000.00
+1|114|Alexander Khoo|115|3100.00
+1|120|Irene Mikkilineni|126|2700.00
+1|123|Sarah Bell|192|4000.00
+1|201|Pat Fay|202|6000.00
+1|205|William Gietz|206|8300.00
+1||Steven King|100|24000.00
