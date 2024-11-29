@@ -57,19 +57,9 @@ This project demonstrates an ETL (Extract, Transform, Load) workflow using **Inf
 - **Router**: To segregate new and existing records.
 - **Aggregator**: For data summarization in the fact table.
 
----
-
 ## Results
 - Dimension tables updated dynamically using SCD1 rules.
 - Fact table populated with consistent and analytics-ready data.
 - Workflow optimized for performance and scalability.
 
----
-
-## Future Scope
-- Extend the project to support **SCD Type 2** for historical data tracking.
-- Automate flat file ingestion using Informatica Scheduler.
-- Integrate advanced transformations for predictive analytics.
-
----
 
