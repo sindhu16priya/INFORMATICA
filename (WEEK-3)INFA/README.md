@@ -1,10 +1,10 @@
-#Informatica Project: ETL Process with SCD Type 1 and Fact Table Construction
+# Informatica Project: ETL Process with SCD Type 1 and Fact Table Construction
 
-This project demonstrates an ETL (Extract, Transform, Load) workflow using **Informatica PowerCenter** to process flat file data, implement Slowly Changing Dimensions Type 1 (SCD1), and build a fact table for analytics.
+This in-house infrmatica project demonstrates an ETL (Extract, Transform, Load) workflow using **Informatica PowerCenter** to process flat file data, implement Slowly Changing Dimensions Type 1 (SCD1), and build a fact table for analytics.
 
 ---
 
-##Overview
+## Overview
 
 ### Objective
 - **Ingest** flat file data into staging and dimension tables.
